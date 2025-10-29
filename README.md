@@ -36,7 +36,7 @@ class EngTamer:
 ## ⚙️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github,vscode,pandas,numpy,matplotlib,linux,c,keras,sql" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,git,github,vscode,pandas,numpy,matplotlib,c,keras,sql" />
 </p>
 
 <p align="center">
