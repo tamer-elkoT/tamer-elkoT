@@ -85,4 +85,5 @@ class EngTamer:
 ## 🗣️ Motto
 
 > **"Data is the oil of the 21st century — but AI is the engine that drives it."**
-> *– Eng. Tamer Elkot*
+> *Tamer Elkot*
+![snake gif](https://github.com/tamer-elkoT/tamer-elkoT/blob/output/github-snake-dark.svg)
