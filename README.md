@@ -1,39 +1,96 @@
-# Hi 👋, I'm Tamer Elkot
+<div align="center" width="50">
 
-### A passionate Data Scientist
+<!-- Professional AI / Data Science Banner -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamer-elkoT&label=Profile views&color=0e75b6&style=flat" alt="tamer-elkoT" /> </p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="90"/>  
+<img src="https://raw.githubusercontent.com/ElkotAI/assets/main/data-science-banner.gif" alt="Data Science Banner" width="80%"/> <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamer-elkoT" alt="tamer-elkoT" /></a> </p>
 
-- 🔭 I'm currently working on **Mobile app that will help students, teachers and organizations to track the performance of the students and make useful educational journey.**
 
-- 🌱 I'm currently learning **Deep Learning for computer vision and Data Analysis in business.**
+---
 
-- 👯 I'm looking to collaborate on **open source projects**
+### 🧠 About Me
 
-- 🤝 I'm looking for help with **turning messy data into actionable insights and building predictive models that raise the revenue of the business.**
+<img src="https://cdn.jsdelivr.net/gh/ElkotAI/assets/ai-brain-animation.gif" width="35"/>  
+I'm **Tamer Elkot**, a **Data Scientist & Analytical Engineer** passionate about **Data Science, Machine Learning, Deep Learning, and Robotics**.
 
-- 💬 Ask me about **AI, Machine Learning, Deep Learning, Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, Keras, beautiful Soap and data preprocessing**
+* 🔭 Currently working on: **AI & Data Analysis Projects**
+* 🌱 Learning next: **Model Deployment & MLOps**
+* 🤖 Building: **Robotics + AI Integration Systems**
+* 💬 Ask me about: **Machine Learning | Data Visualization | Python | Model Deployment**
+* ⚡ Fun fact: *I can spend hours debugging but seconds smiling when the model finally works 😄*
 
-- 📫 How to reach me **tamer.elkot.ai@gmail.com**
+---
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1qJOqoKEtq2-PngOQsz6q1knxa9ZVbjH3/view?usp=sharing](https://drive.google.com/file/d/1qJOqoKEtq2-PngOQsz6q1knxa9ZVbjH3/view?usp=sharing)**
+### 🚀 Tools & Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/tamer-elkoT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tamer-elkoT" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/tamer-elkot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tamer-elkot" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/tamerelkot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tamerelkot" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://www.codewars.com/users/tamer-elkoT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://www.codewars.com/users/tamer-elkoT" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat\&logo=python\&logoColor=darkgreen)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat\&logo=keras\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat\&logo=opencv\&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154360?style=flat)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat\&logo=tableau\&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat\&logo=visual-studio-code\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat\&logo=google-colab\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a></p>
+```python
+# My Toolkit in Pythonic Style 🧩
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamer-elkoT&show_icons=true&locale=en&layout=compact" alt="tamer-elkoT" /></p>
+class Tamer_AI:
+    def __init__(self):
+        self.languages = ["Python", "SQL", "C"]
+        self.libraries = [
+            "NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn",
+            "TensorFlow", "PyTorch", "Keras", "OpenCV", "NLTK"
+        ]
+        self.tools = ["Git", "Power BI", "Excel", "Colab", "VS Code", "Tableau"]
+        self.fields = ["Machine Learning", "Deep Learning", "Data Analysis", "Robotics"]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamer-elkoT&show_icons=true&locale=en" alt="tamer-elkoT" /></p>
+    def mission(self):
+        return "Solve real-world problems using AI and Robotics 🚀"
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamer-elkoT&" alt="tamer-elkoT" /></p>
+---
 
+### 📊 GitHub Stats
+
+<div align="center">
+<a href="https://github.com/TamerElkot">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+</a>
+
+<details>
+  <summary>More Stats</summary>
+  <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+</details>
+</div>
+
+---
+
+### 🧩 Code Cycle
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+
+---
+
+💬 *“Data is the oil of the 21st century — but AI is the engine.”*
+**— Eng. Tamer**
