@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/tamer-elkoT/tamer-elkoT/main/data.jpeg" width="400" alt="Data Science Banner"/>
 </p>
 
-<h3 align="center">Data Scientist & Analytical Engineer 📊 | Machine Learning Engineer 🤖</h3>
+<h3 align="center">Full Stack AI Engineer 📊 | Computer Vision Engineer 🤖</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/tamer-elkot"><img src="https://img.shields.io/badge/Tamer%20Elkot-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
